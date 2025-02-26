@@ -1,0 +1,37 @@
+---
+title: "My Presentation"
+author: "Your Name"
+date: "February 2025"
+format: 
+  revealjs:
+    title-slide-attributes:
+      data-background: "cover.png"
+      data-background-size: cover
+    theme: [default, custom.scss]
+    logo: 'CEBU_Proj-Id_RGB_With_UoM.png'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE
+)
+```
+
+
+
+
+## Slides {.scrollable}
+
+- this is my code dsaf dsa sdag ag dsfg sdaf sdag sag fsag sda sdaf dsag sda fsa gas fsd 
+
+
+
+
+## aaa
+
+```{r}
+1 + 1
+```
+
