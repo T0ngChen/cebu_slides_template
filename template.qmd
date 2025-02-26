@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 
 ## Slides {.scrollable}
 
-- this is my code dsaf dsa sdag ag dsfg sdaf sdag sag fsag sda sdaf dsag sda fsa gas fsd 
+- this is my code dsaf dsa sdag ag dsfg sdaf sdag sag fsag sda sdaf dsag sda fsa gas fsd
 
 
 
